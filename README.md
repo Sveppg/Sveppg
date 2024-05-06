@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Competitive Programming**
 
-- 🤝 I’m looking for help with **Node.js front end**
+- 🤝 I’m looking for help with **Frontend**
 
 - 💬 Ask me about **linux dev**
 
