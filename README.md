@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sveppg</h1>
 <h3 align="center">A passionate system's engineer and Computer Engineering Student</h3>
+- honestly just some uni projects or stuff I was interested in
 
 - 🌱 I’m currently learning **Competitive Programming**
 
