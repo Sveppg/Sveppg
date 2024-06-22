@@ -1,3 +1,5 @@
+![pwnagotchi](https://github.com/Sveppg/Sveppg/assets/54738234/bcf8739c-0589-4ebe-ad55-c9d732975745)
+
 <h1 align="center">Hi 👋, I'm Sveppg</h1>
 <h3 align="center">A passionate system's engineer and Computer Engineering Student</h3>
 
