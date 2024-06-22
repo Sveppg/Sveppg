@@ -8,6 +8,6 @@
 <a href="https://instagram.com/t_svenemann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tsvenemann" height="30" width="40" /></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Sveppg=Sveppg&theme=tokyonight)
 
 [![](https://visitcount.itsvg.in/api?id=Sveppg&icon=0&color=0)](https://visitcount.itsvg.in)
