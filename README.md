@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sveppg</h1>
-<h3 align="center">A passionate system's engineer and Computer Engineering Student</h3>
-
-- 📫 How to reach me **tsvenemann@gmail.com**
+<h1 align="center">I'm Sveppg</h1>
+<h3 align="center">system's engineer and Computer Engineering Student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
