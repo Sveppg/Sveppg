@@ -1,6 +1,4 @@
-<h1 align="center">I'm Sveppg</h1>
 <h3 align="center">system's engineer and Computer Engineering Student</h3>
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sveppg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
